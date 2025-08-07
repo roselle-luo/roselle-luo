@@ -1,1 +1,5 @@
-<img src="https://github-readme-stats.vercel.app/api?username=`roselle-luo`&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=fff&hide_title=false
+### 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=roselle-luo&show_icons=true&theme=default)
+
+### 🧑‍💻 Top Languages
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=roselle-luo&layout=compact)
