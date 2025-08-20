@@ -6,8 +6,8 @@
 ## 🛠️ Tech Stack
   - Kotlin / Java / C++ / C / Golang / Python / JavaScript / Dart / TypeScript / Shell / Scala
   - Android / Jetpack Compose / Flutter / Uniapp / Vue / Flask / FastApi / Spring Boot / Spark / Hadoop
-  - MariaDB / MongoDB / Redis / Scrapy / AI Agent
-  - Docker / GitHub Actions / Linux
+  - MariaDB / MongoDB / Redis / Scrapy / AI Agent / Langchain
+  - Docker / GitHub Actions / Linux / Wordpress 
 
 ## 📊 GitHub Stats
 - High activity level, continuously updating projects and participating in collaboration.
